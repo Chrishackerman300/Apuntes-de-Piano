@@ -63,3 +63,52 @@ Los pedales del piano permiten a los pianistas mezclar dinámicas y crear divers
     Solamente va a dejar sonando lo primero que presione. Esto significa que sólo sonará un grupo de notas cuando pise este pedal en concreto, todos los demás sonidos se amortiguan para conseguir un efecto de sonido “seco” articulado.
 
 ![Imagen de Pedales](https://i.multisononline.com/blog/wp-content/uploads/2022/12/pedales-piano-funcionamiento-1024x683.jpg)
+
+# La escala cromática
+
+## ¿Qué es la escala cromatica?
+En pocas palabras, la escala cromática es una escala que sólo utiliza intervalos de semitono en orden ascendente o descendente. Otra forma de decirlo es que la escala cromática utiliza los doce tonos secuencialmente.
+
+En un piano se tocan todas las teclas blancas y negras entre la primera y la última nota. En una guitarra, son todas las notas desde una cuerda al aire hasta el duodécimo traste.
+
+Empezando en Do, la escala cromática tendría este aspecto:
+
+![Imagen escala cromatica](https://static.emastered.com/images/blog-assets/6840.webp?v=1717337463)
+
+## Todas las notas del piano 
+Incluyendo todas las teclas tanto blancas como negras tendriamos esto:
+
+![Imagen all teclas](https://static.emastered.com/images/blog-assets/6842.webp?v=1717337464)
+
+Donde tendriamos la parte de las notas **sostenidas** y las notas **bemol** cada una de estás dos notas tiene un tono y sonido diferente.
+
+Donde las notas sostenidas serían:
+
+* C# - **Do Sostenido**
+* D# - **Re Sostenido**
+* F# - **Fa Sostenido**
+* G# - **Sol Sostenido**
+* A# - **La Sostenido**
+
+
+Y por otra parte tendriamos la parte de las notas bemol:
+
+* Db - **Re bemol**
+* Eb - **Mi bemol**
+* Gb - **Sol bemol**
+* Ab - **La bemol**
+* Bb - **Si bemol**
+
+# Intervalos
+El intervalo en música se denomina intervalo a la **distancia tonal entre dos notas musicales**. Para formar un intervalo se debe de contar desde la nota de partida hasta la nota de llegada. Hay dos tipos de intervalos en música los cuales son **(Intervalo Armónico y Intervalo Melódico)**.
+
+![Imagen Intervalos](https://escuelaonlinedemusica.com/wp-content/uploads/2017/07/NOTAS-TECLADO-12-st.png)
+
+* ## **st** Es igual a un semitono.
+* ## **1T** Es igual a un tono.
+
+* ## Intervalo Armónico:
+    El intervalo Armónico es un elemento de distancia que mide la distancia vertical entre 2 Notas diferentes que suenan a la vez. Si entendemos cada voz como una curva, en cada punto temporal o Pulso hay una distancia o intervalo Armónico (iA) entre las Notas de cada voz.
+
+* ## Intervalo Melódico:
+    En el intervalo melódico las notas suenan una después de otra.
