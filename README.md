@@ -112,3 +112,66 @@ El intervalo en música se denomina intervalo a la **distancia tonal entre dos n
 
 * ## Intervalo Melódico:
     En el intervalo melódico las notas suenan una después de otra.
+
+# Teoria musical y notación
+
+## ¿Qué es el pentagáama?
+El pentagráma es una modalidad de notación musical que se basa en una estructura compuesta por 5 rectas ubicadas de manera paralela y a una misma distancia de separación. **Y se empiezan a contar de abajo hacia arriaba, por ende la primera linea de abajo es la linea uno**.
+
+Los pentagramas se destinan a la escritura de música, es decir, para tener registro en un soporte escrito de las notas y los demás signos musicales necesarios para interpretar una melodía. Todas las líneas del pentagrama, así como sus cuatro espacios, se enumeran en dirección abajo-arriba.
+
+![Imagen pentagráma](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Piano_staff.png/400px-Piano_staff.png)
+
+### La clave de arriba del pentagáama es la clave de Sol.
+
+### La clave de abajo del pentagáama es la clave de Fa**.
+
+# Acorders de Triadas
+Los acordes de piano por triadas componen un conjunto de 3 notas y se forman colocando intervalos de terceras una arriba de la otra.
+
+Recordemos que en un intervalo de 3era. Mayor, la distancia entre 2 notas es de 4 semitonos o 2 tonos y en un intervalo de 3era. Menor, la distancia entre 2 notas es de 3 semitonos o 1 tono y 1/2.
+
+### Acordes Mayores:
+Se componen de dos terceras superpuestas (3aM y 3am).
+
+### Acordes Menores:
+Se componen de dos terceras superpuestas (3am y 3aM).
+
+### Acordes Disminuidos:
+Se componen de dos terceras superpuestas (3am y 3am).
+
+### Acordes Aumentados:
+Se componen de dos terceras superpuestas (3aM y 3aM).
+
+## Acordes mayores para piano en triadas:
+
+| Acorde | Cifrado | Imagen del Acorde |
+|----------|----------|--------------|
+| Do Mayor | CM    | ![Imagen Acorde Do Mayor](https://leccionesdepiano.net/wp-content/uploads/2025/02/C_mayor.webp)|
+| Re Mayor         | DM  | ![Imagen Acorde DM](https://leccionesdepiano.net/wp-content/uploads/2025/02/D_mayor.webp)      |
+| Mi Mayor         | EM  | ![Imagen Acorde EM](https://leccionesdepiano.net/wp-content/uploads/2025/02/E_mayor.webp)      |
+| Fa Mayor | FM    | ![Imagen Acorde Fa Mayor](https://leccionesdepiano.net/wp-content/uploads/2025/02/F_mayor.webp)|
+| Sol Mayor        | GM  | ![Imagen Acorde GM](https://leccionesdepiano.net/wp-content/uploads/2025/02/G_mayor.webp)      |
+| La Mayor         | AM  | ![Imagen Acorde AM](https://leccionesdepiano.net/wp-content/uploads/2025/02/A_mayor.webp)      |
+| Si Mayor         | BM  | ![Imagen Acorde BM](https://leccionesdepiano.net/wp-content/uploads/2025/02/B_mayor.webp)      |
+| Re bemol Mayor   | DbM | ![Imagen Acorde DbM](https://leccionesdepiano.net/wp-content/uploads/2025/02/Db_mayor.webp)  |
+| Mi bemol Mayor   | EbM | ![Imagen Acorde EbM](https://leccionesdepiano.net/wp-content/uploads/2025/02/Eb_mayor.webp)  |
+| Sol bemol Mayor  | GbM | ![Imagen Acorde GbM](https://leccionesdepiano.net/wp-content/uploads/2025/02/Gb_mayor.webp)  |
+| La bemol Mayor   | AbM | ![Imagen Acorde AbM](https://leccionesdepiano.net/wp-content/uploads/2025/02/Ab_mayor.webp)  |
+| Si bemol Mayor   | BbM | ![Imagen Acorde BbM](https://leccionesdepiano.net/wp-content/uploads/2025/02/Bb_mayor.webp)  |
+
+## Acordes menores en triadas:
+| Acorde | Cifrado | Imagen del Acorde|
+|--------|---------|------------------|
+|Do Menor| Cm      |![Imagen del Acorde Cm](https://leccionesdepiano.net/wp-content/uploads/2025/02/C_menor.webp)      |
+|Re Menor| Dm      |![Imagen del Acorde Dm](https://leccionesdepiano.net/wp-content/uploads/2025/02/D_menor.webp)      |
+|Mi Menor| Em      |![Imagen del Acrode Em](https://leccionesdepiano.net/wp-content/uploads/2025/02/E_menor.webp)      |
+|Fa Menor| Fm      |![Imagen del Acorde Fm](https://leccionesdepiano.net/wp-content/uploads/2025/02/F_menor.webp)      |
+|Sol Menor| Gm     |![Imagn del Acorde Gm](https://leccionesdepiano.net/wp-content/uploads/2025/02/G_menor.webp)      |
+|La Menor| Am      |![Imagen del Acorde Am](https://leccionesdepiano.net/wp-content/uploads/2025/02/A_menor.webp)      |
+|Si Menor| Bm      |![Imagen del Acorde Bm](https://leccionesdepiano.net/wp-content/uploads/2025/02/B_menor.webp)      |
+|Re bemol Menor| Dbm |![Imagen del Acorde Dbm](https://leccionesdepiano.net/wp-content/uploads/2025/02/Db_menor.webp)     |
+|Mi bemol Menor| Ebm |![Imagen del Acorde Ebm](https://leccionesdepiano.net/wp-content/uploads/2025/02/Eb_menor.webp)     |
+|La bemol Menor| Abm |![Imagen del Acorde Abm](https://leccionesdepiano.net/wp-content/uploads/2025/02/Ab_menor.webp)       |
+|Si bemol Menor| Bbm |![Imagen del Acorde Bbm](https://leccionesdepiano.net/wp-content/uploads/2025/02/Bb_menor.webp)       |
+|Fa Sostenido Menor| F#m|![Imagen del Acorde F#m](https://leccionesdepiano.net/wp-content/uploads/2025/02/F_menor-1.webp)   |
